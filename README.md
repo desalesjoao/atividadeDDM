@@ -110,7 +110,7 @@ Refatoração Sugerida
 - Encapsular ícone em `IconWrapper` com fallback.
 - Permitir customização adicional via props (`style`, `textClassName`, etc.).
 
-
+---
 
 ###  Considerações Gerais
 
